@@ -16,7 +16,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
+My complete name is Cristian Mauricio Cubías Reyes, Here is a list of facts about me:
+ 
+- 🎓 Degree in Systems Engineering from Universidad de El Salvador. (University of El Salvador).
+  
 - 🔭 I’m currently working on small projects for learning.
 
 - 🌱 I’m currently learning Web Development, Python, Networking, Data science. 
