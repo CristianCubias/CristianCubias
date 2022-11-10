@@ -22,7 +22,7 @@ My complete name is Cristian Mauricio Cubías Reyes, Here is a list of facts abo
   
 - 🔭 I’m currently working on small projects for learning.
 
-- 🌱 I’m currently learning Web Development, Python, Networking, Data science. 
+- 🌱 I’m currently learning Mobile Development, Web Development, Python.
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
@@ -34,6 +34,8 @@ My complete name is Cristian Mauricio Cubías Reyes, Here is a list of facts abo
 <a href= https://github.com/CristianCubias?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/CristianCubias?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/CristianCubias?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+ <a href= https://github.com/?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
